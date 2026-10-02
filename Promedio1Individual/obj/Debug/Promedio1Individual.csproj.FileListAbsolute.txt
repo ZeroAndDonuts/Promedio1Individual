@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\Projectos\Promedio1Individual\Promedio1Individual\obj\Debug\Promedio1Individual.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Projectos\Promedio1Individual\Promedio1Individual\obj\Debug\Promedio1Individual.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Projectos\Promedio1Individual\Promedio1Individual\bin\Debug\Promedio1Individual.exe.config
-C:\Users\User\Desktop\Projectos\Promedio1Individual\Promedio1Individual\bin\Debug\Promedio1Individual.exe
-C:\Users\User\Desktop\Projectos\Promedio1Individual\Promedio1Individual\bin\Debug\Promedio1Individual.pdb
-C:\Users\User\Desktop\Projectos\Promedio1Individual\Promedio1Individual\obj\Debug\Promedio1Individual.exe
-C:\Users\User\Desktop\Projectos\Promedio1Individual\Promedio1Individual\obj\Debug\Promedio1Individual.pdb
